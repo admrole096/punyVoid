@@ -5,7 +5,7 @@ A puny (minimalist) busybox-based Void linux spin, focused on performance, speed
 ## Table of Contents
 
 - [To-Do](#todo)
-- [Features](#features)
+- [Packages](#pkgs)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
@@ -24,10 +24,6 @@ A puny (minimalist) busybox-based Void linux spin, focused on performance, speed
 - Pkg manager => xbps
 - Kernel => Linux-LTS 6.18
 - Init => busybox-init or dracut
-
-### Tech Stack
-
-- **Shell**
 
 ## Installation
 
