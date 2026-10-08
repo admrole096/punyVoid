@@ -2,12 +2,7 @@ base-files
 glibc
 linux6.18
 linux6.18-headers
-booster
 runit
 xbps
-bash
 busybox
-curl
 kmod
-procps-ng
-util-linux
